@@ -1,0 +1,17 @@
+.row {
+    width: 100%;
+}
+
+@media (min-width: 1200px) {
+    .col-lg-1 {
+    float: left;
+    width: 8.33%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .col-m-12 {
+    width: 100%;
+    float: left;
+    }
+}

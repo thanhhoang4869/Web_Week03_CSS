@@ -1,0 +1,22 @@
+.blue {
+    color: green;
+    font-family: Arial, serif;
+}
+
+#introduce{
+    font-family: Arial, serif;
+    color: green;
+}
+
+.green{
+    color: green;
+}
+
+div.green{
+    color: green;
+}
+
+.student.girl{
+    background-color: gray;
+    color: pink;
+}

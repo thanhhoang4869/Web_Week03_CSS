@@ -1,0 +1,14 @@
+.img1 {
+    width: 20%;
+    float: right;
+}
+
+.img2 {
+    width: 20%;
+    float: left;
+}
+
+.img3 {
+    width: 20%;
+    float: none;
+}

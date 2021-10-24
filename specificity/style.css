@@ -1,0 +1,9 @@
+#span1{
+    color: hotpink;
+    background-color: black;
+}
+
+span.test {
+    color: aquamarine;
+    background-color: black;
+}

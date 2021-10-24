@@ -1,0 +1,41 @@
+body {
+    background-color: aliceblue;
+}
+article {
+    border: 3px solid brown;
+    margin: 5px;
+    padding: 10px;
+}
+#div1 {
+    height: 80px;
+    border: 5px solid cornflowerblue;
+    margin: 30px;
+    padding: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    overflow: scroll;
+}
+
+#div2 {
+    height: 80px;
+    border: 5px solid cornflowerblue;
+    margin: 30px;
+    padding: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#div3 {
+    height: 80px;
+    border: 5px solid cornflowerblue;
+    margin: 30px;
+    padding: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    overflow: visible;
+}
+
+p{
+    border: 2px dashed hotpink;
+}
